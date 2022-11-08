@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.landing-title {
+  @apply font-bold text-4xl;
+}
+
+.landing-text {
+  @apply font-extralight text-xl italic;
+}
