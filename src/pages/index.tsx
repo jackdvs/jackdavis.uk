@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <div className="flex justify-center items-center flex-col gap-4 p-4 min-h-[300px] sm:min-h-[600px] text-center">
-        <h1 className="landing-title">I am coda</h1>
+        <h1 className="landing-title">Website coming soon, stay tuned! :-)</h1>
 
         <PacmanLoader
           size={32}
